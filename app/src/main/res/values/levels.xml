@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <array name="levels">
+        <item>Random</item>
+        <item>Kids</item>
+        <item>Movies</item>
+        <item>TV Series</item>
+        <item>Places</item>
+        <item>Dictionary</item>
+        <item>Personality</item>
+        <item>Harry Potter</item>
+        <item>Food</item>
+        <item>Animals</item>
+        <item>Music</item>
+    </array>
+</resources>
